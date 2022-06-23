@@ -10,6 +10,7 @@ public class Manager1
 		System.out.println("Selenium");
 		System.out.println("TestNG");
 		System.out.println("Cucumber");
+        System.out.println("JSON");
 	}
 }
 
