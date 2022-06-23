@@ -6,5 +6,6 @@ public class Manager2
 	{
 		System.out.println("Testing");
 		System.out.println("QC Testing");
+		System.out.println("Check Out - b2");
 	}
 }
