@@ -9,6 +9,7 @@ public class Manager1
 		System.out.println("Commit");
 		System.out.println("Code Commit");
 		System.out.println("Code Committed Successfully");
+		System.out.println("Code Committed Successfully - b2");
 		System.out.println("Done");
 	}
 }
