@@ -9,7 +9,7 @@ public class Manager1
 		System.out.println("MySQL");
 		System.out.println("Selenium");
 		System.out.println("TestNG");
-		
+		System.out.println("Cucumber");
 	}
 }
 
